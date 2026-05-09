@@ -1,6 +1,18 @@
-MIT License
+# Third-Party Notices
 
-Copyright (c) 2026 hary34
+This file lists third-party license notices that must be preserved.
+
+## SNKRX
+
+Source: https://github.com/a327ex/SNKRX
+
+Original copyright notice:
+
+Copyright (c) 2021 adn
+
+License: MIT
+
+MIT License text:
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
